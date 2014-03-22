@@ -13,7 +13,12 @@ a home for poems and stories
    <p> drifting out into the ocean, I think in code! </p>
    <h2> My Bulleted list: To Do </h2>
    <ul>
-   <li></li>
+   <li>clean room</li>
+   <li>do nails</li>
+   <li>do hair</li>
+   <li>homework</li>
+   <li>clean bathroom</li>
+   <li>pick out next week's outfits</li>
    </ul>
    </body>
    </html>
